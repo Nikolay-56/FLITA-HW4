@@ -1,0 +1,3 @@
+C:/My files/C/FLITA/FLITA 4/cmake-build-debug/CMakeFiles/FLITA_4.dir
+C:/My files/C/FLITA/FLITA 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/My files/C/FLITA/FLITA 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
